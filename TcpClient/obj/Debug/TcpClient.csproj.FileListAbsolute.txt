@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\obj\Debug\TcpClient.form1.resources
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\obj\Debug\TcpClient.Properties.Resources.resources
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\obj\Debug\TcpClient.pdb
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\obj\Debug\TcpClient.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.CopyComplete
